@@ -1,0 +1,20 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = C:\Users\mlgdu\Desktop\ProjetScala\ProgrammationFonctionnelle\DemineurProgFonc\target\scala-2.13\classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = C:\Users\mlgdu\Desktop\ProjetScala\ProgrammationFonctionnelle\DemineurProgFonc\target\scala-2.13\classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DemineurUtil$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DemineurInterface$$anon$8.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DemineurUtil.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DemineurInterface$$anon$7.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DemineurInterface$$anon$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DemineurInterface$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DemineurInterface$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DemineurInterface$$anon$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DemineurInterface$$anon$1$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DemineurInterface$$anon$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DemineurInterface$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DemineurInterface.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: C:\Users\mlgdu\Desktop\ProjetScala\ProgrammationFonctionnelle\DemineurProgFonc\target\scala-2.13\classes.bak[0m
